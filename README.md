@@ -4,3 +4,4 @@
 - Estou me desenvolvendo na linguagem JanaScrip
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos dedenvolvidos.
 - ![](https://media.tenor.com/dor8qnEGxCMAAAAi/sigma.gif)
+- Une nuk klikoj në shkronja te rastesishme
